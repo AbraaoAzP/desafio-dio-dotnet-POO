@@ -1,0 +1,14 @@
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\bin\Debug\net8.0\DesafioDOTNETPOO.exe
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\bin\Debug\net8.0\DesafioDOTNETPOO.deps.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\bin\Debug\net8.0\DesafioDOTNETPOO.runtimeconfig.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\bin\Debug\net8.0\DesafioDOTNETPOO.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\bin\Debug\net8.0\DesafioDOTNETPOO.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.AssemblyInfoInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.AssemblyInfo.cs
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.csproj.CoreCompileInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\refint\DesafioDOTNETPOO.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\DesafioDOTNETPOO.genruntimeconfig.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioDOTNETPOO\obj\Debug\net8.0\ref\DesafioDOTNETPOO.dll
